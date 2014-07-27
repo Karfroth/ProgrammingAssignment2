@@ -1,6 +1,5 @@
 ## makeCacheMatrix and cacheSolve are functions for caching the inverse matrix
 
-
 ## makeCacheMatrix function contains 4 functions.
 ##
 ## use "(variable) <- makeCacheMatrix()" 								
@@ -10,7 +9,6 @@
 ## You can set inverse matrix yourself by using $setsolve				
 ## You can get cached inverse matrix by $getsolve
 ## Check Examples in tail of this script
-
 
 makeCacheMatrix <- function(x, ...) {
   m<-NULL
