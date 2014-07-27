@@ -10,6 +10,16 @@
 ## You can get cached inverse matrix by $getsolve
 ## Check Examples in tail of this script
 
+## makeCacheMatrix function contains 4 functions.
+##
+## use "(variable) <- makeCacheMatrix()" 								
+## or "(variable) <- makeCacheMatrix('variable that contain matrix')"	
+## $set will set matrix in makeCacheMatrix function
+## $get will show you cached matrix in makeCacheMatrix function
+## You can set inverse matrix yourself by using $setsolve				
+## You can get cached inverse matrix by $getsolve
+## Check Examples in tail of this script
+
 makeCacheMatrix <- function(x, ...) {
   m<-NULL
   set<-function(y, ...){

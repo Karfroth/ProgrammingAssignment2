@@ -5,7 +5,7 @@ cachematrix.R script is modified script from offered source code.
 Offered source code is written below.
 Also, You can read "README_Original.md" file to read original readme.
 
-## Example: Caching the Mean of a Vector
+### Example: Caching the Mean of a Vector
 
 In this example we introduce the `<<-` operator which can be used to
 assign a value to an object in an environment that is different from the
