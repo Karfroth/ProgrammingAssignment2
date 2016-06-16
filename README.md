@@ -1,8 +1,9 @@
 ### Introduction
 
-This repo is containing script for second programming assignment of `R Programming` class of Coursera.
-`cachematrix.R` script is modified script from offered source code.
+This repo is containing script for the third week's programming assignment of `R Programming` class of Coursera.
+`cachematrix.R` script is modified script from offered source code by Woosang Lee, the owner of this repo.
 Offered source code is written below.
+
 Also, You can read `README_Original.md` file to read original readme.
 
 ### Example: Caching the Mean of a Vector
